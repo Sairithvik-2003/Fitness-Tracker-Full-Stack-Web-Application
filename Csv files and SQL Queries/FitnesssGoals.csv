@@ -1,0 +1,51 @@
+FitnessGoalId,GoalType,GoalName,Duration,Distance,CaloriesBurned
+1,Indoor,Treadmill Run,00:30:00,5,300
+2,Outdoor,Cycling,01:00:00,20.5,450
+3,Indoor,Elliptical,00:25:00,4,250
+4,Outdoor,Hiking,02:00:00,10,600
+5,Indoor,Rowing Machine,00:40:00,6,350
+6,Outdoor,Running,01:00:00,8.5,500
+7,Indoor,Yoga,01:00:00,0,200
+8,Outdoor,Swimming,00:45:00,1.5,400
+9,Indoor,Stair Climber,00:35:00,3,300
+10,Outdoor,Walking,01:00:00,4,200
+11,Indoor,Zumba,00:32:00,0,320
+12,Outdoor,Roller Skating,01:05:00,21,470
+13,Indoor,Pilates,00:27:00,0,260
+14,Outdoor,Canoeing,02:10:00,10.5,620
+15,Indoor,Spin Class,00:42:00,0,360
+16,Outdoor,Trail Running,01:05:00,8.8,510
+17,Indoor,Aerobics,01:10:00,0,210
+18,Outdoor,Kayaking,00:47:00,1.6,420
+19,Indoor,Boxing,00:37:00,0,310
+20,Outdoor,Skiing,01:10:00,4.1,210
+21,Indoor,Climbing,00:35:00,5.4,340
+22,Outdoor,Snowboarding,01:10:00,21.5,490
+23,Indoor,Dance,00:29:00,0,270
+24,Outdoor,Surfing,02:20:00,11,640
+25,Indoor,High-Intensity Interval Training,00:44:00,0,370
+26,Outdoor,Mountain Biking,01:10:00,9,520
+27,Indoor,Jump Rope,01:20:00,0,220
+28,Outdoor,Rock Climbing,00:49:00,1.7,440
+29,Indoor,Bodybuilding,00:39:00,0,320
+30,Outdoor,Skateboarding,01:20:00,4.2,220
+31,Indoor,TRX Training,00:37:00,0,360
+32,Outdoor,Running,01:15:00,22,510
+33,Indoor,CrossFit,00:31:00,0,280
+34,Outdoor,Adventure Racing,02:30:00,11.5,660
+35,Indoor,Barre,00:46:00,0,380
+36,Outdoor,Paddleboarding,01:15:00,9.2,530
+37,Indoor,Powerlifting,01:30:00,0,230
+38,Outdoor,Paragliding,00:51:00,1.8,460
+39,Indoor,Kettlebell Training,00:41:00,0,330
+40,Outdoor,Scuba Diving,01:30:00,4.3,230
+41,Indoor,TRX Training,00:39:00,0,380
+42,Outdoor,Wakeboarding,01:20:00,22.5,530
+43,Indoor,Functional Training,00:33:00,0,290
+44,Outdoor,Parkour,02:40:00,12,680
+45,Indoor,Martial Arts,00:48:00,0,390
+46,Outdoor,Rowing,01:20:00,9.4,540
+47,Indoor,Weightlifting,01:40:00,0,240
+48,Outdoor,Sailing,00:53:00,1.9,480
+49,Indoor,Calisthenics,00:43:00,0,340
+50,Outdoor,Inline Skating,01:40:00,4.4,240

@@ -1,0 +1,8 @@
+Id, FullName, Email, Password, Gender, Weight, Height, DateOfBirth
+1,Alice,alice@example.com,pass1234,Female,60,165.5, 1990-01-01
+2,Bob,bob@example.com,pass5678,Male,75,175, 1985-05-15
+3,Charlie,charlie@example.com,pass9101,Male,85,180, 1992-08-25
+4,David,david@example.com,pass1122,Male,80,178, 1988-04-10
+5,Eve,eve@example.com,pass3344,Female,55,160, 1991-07-22
+6,Fiona,fiona@example.com,pass5566,Female,65,170, 1993-11-05
+7,George,george@example.com,pass7788,Male,78,182, 1987-03-30

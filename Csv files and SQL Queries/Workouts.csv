@@ -1,0 +1,11 @@
+WorkoutId,WorkoutType,WorkoutName,Duration,Distance,CaloriesBurned,Date,UserProfileId
+1,Outdoor,Cycling,01:00:00,5,500, 2024-11-18,1
+2,Indoor,Weightlifting,01:30:00,0,600, 2024-11-18,2
+3,Indoor,Yoga,00:45:00,0,200, 2024-11-18,3
+4,Outdoor,Cycling,02:00:00,20,800, 2024-11-18,4
+5,Indoor,Push-Ups,00:30:00,0,300, 2024-11-18,5
+6,Outdoor,Hiking,00:30:00,3,200, 2024-11-19,1
+7,Indoor,Dance,00:45:00,0,250, 2024-11-19,2
+8,Indoor,Climbing,00:30:00,0,100, 2024-11-19,3
+9,Outdoor,Rowing,01:00:00,10,400, 2024-11-19,4
+10,Indoor,Boxing,00:15:00,0,100, 2024-11-19,5

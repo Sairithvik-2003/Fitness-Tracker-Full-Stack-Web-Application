@@ -1,0 +1,670 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\controllers\\fitnessgoalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\controllers\\fitnessgoalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\workoutblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\workoutblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\userblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\userblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\iworkoutblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\iworkoutblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\iuserblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\iuserblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\fitnessblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\fitnessblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\blrepository\\ifitnessgoalblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\blrepository\\ifitnessgoalblrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\fitnessgoalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\fitnessgoalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\ifitnessgoalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\ifitnessgoalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\workoutandfitnessgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\workoutandfitnessgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\bltest\\fitnessblrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\bltest\\fitnessblrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\fitnessgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\fitnessgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/FitTrackAppDB/True/SqlTable/dbo.FitnessGoals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\bwlrvft2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Csv files and SQL Queries\\SQLQueries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\dalrepositorytests\\fitnessgoalrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\dalrepositorytests\\fitnessgoalrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\fitnesstrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\fitnesstrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\dalrepositorytests\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\dalrepositorytests\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\controllertests\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\controllertests\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\bltest\\workoutblrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\bltest\\workoutblrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\dalrepository\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\dalrepository\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\MY-CAPSTONE-PROJECT\\Csv files and SQL Queries\\MY-SQL-Queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FT_SYSTEMDB/True/SqlTable/dbo.FitnessGoals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\controllertests\\workoutcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\controllertests\\workoutcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstrackertests\\dalrepositorytests\\workoutrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578CBEF-2DC0-45FA-81B4-6FC167E07DE6}|FitnessTrackerTests\\FitnessTrackerTests.csproj|solutionrelative:fitnesstrackertests\\dalrepositorytests\\workoutrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.Workouts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.UserProfiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.FitnessGoals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113125844_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050441_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050240_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\dell\\documents\\full stack projects\\fitness tracking system\\fitness-tracter-backend\\fitnesstracker\\migrations\\20250308141031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A407A-35F6-4762-94B9-9A16BD7B228A}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\migrations\\20250308141031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitnessBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\FitnessBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\FitnessBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\FitnessBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\FitnessBLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:53:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IUserBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\IUserBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IUserBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\IUserBLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:52:40.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkoutBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IWorkoutBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\IWorkoutBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IWorkoutBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\IWorkoutBLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:52:29.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\UserBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\UserBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\UserBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\UserBLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:53:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkoutBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\WorkoutBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\WorkoutBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\WorkoutBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\WorkoutBLRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:53:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessGoalController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\FitnessGoalController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Controllers\\FitnessGoalController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\FitnessGoalController.cs",
+              "RelativeToolTip": "FitnessTracker\\Controllers\\FitnessGoalController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:53:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFitnessGoalBLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IFitnessGoalBLRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\BLRepository\\IFitnessGoalBLRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\BLRepository\\IFitnessGoalBLRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\BLRepository\\IFitnessGoalBLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:52:59.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FitnessGoalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\FitnessGoalRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\FitnessGoalRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\FitnessGoalRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\FitnessGoalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:38:16.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFitnessGoalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IFitnessGoalRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\IFitnessGoalRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IFitnessGoalRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\IFitnessGoalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:37:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkoutandFitnessGoal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\WorkoutandFitnessGoal.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\WorkoutandFitnessGoal.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\WorkoutandFitnessGoal.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\WorkoutandFitnessGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:53:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Program.cs",
+              "RelativeToolTip": "FitnessTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:52:47.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\appsettings.json",
+              "RelativeToolTip": "FitnessTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T04:40:01.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FitnessBLRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\BLTest\\FitnessBLRepositoryTest.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\BLTest\\FitnessBLRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\BLTest\\FitnessBLRepositoryTest.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\BLTest\\FitnessBLRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:39:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FitnessGoal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\FitnessGoal.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\FitnessGoal.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\FitnessGoal.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\FitnessGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:51:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.FitnessGoals.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FitTrackAppDB/True/SqlTable/dbo.FitnessGoals.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FitTrackAppDB/True/SqlTable/dbo.FitnessGoals.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-08T14:12:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FitnessGoalRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\FitnessGoalRepositoryTests.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\DALRepositoryTests\\FitnessGoalRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\FitnessGoalRepositoryTests.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\DALRepositoryTests\\FitnessGoalRepositoryTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswHUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:28:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Controllers\\WorkoutController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "FitnessTracker\\Controllers\\WorkoutController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:53:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQueries.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Csv files and SQL Queries\\SQLQueries.sql",
+              "RelativeDocumentMoniker": "..\\Csv files and SQL Queries\\SQLQueries.sql",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Csv files and SQL Queries\\SQLQueries.sql",
+              "RelativeToolTip": "..\\Csv files and SQL Queries\\SQLQueries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-28T09:53:57.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250308141031_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Migrations\\20250308141031_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Migrations\\20250308141031_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Migrations\\20250308141031_InitialCreate.cs",
+              "RelativeToolTip": "FitnessTracker\\Migrations\\20250308141031_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:10:31.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bwlrvft2..sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\bwlrvft2..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\bwlrvft2..sql",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\bwlrvft2..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\bwlrvft2..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-08T14:11:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FitnessTracker\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwEkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:53:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\UserProfile.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:42:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\Login.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:20:33.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FitnessTrackerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\FitnessTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\FitnessTrackerDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\FitnessTrackerDbContext.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\FitnessTrackerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:38:13.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\UserRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\UserRepository.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:33:31.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IWorkoutRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\IWorkoutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:38:43.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\IUserRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:54:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\ControllerTests\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\ControllerTests\\UserControllerTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\ControllerTests\\UserControllerTest.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\ControllerTests\\UserControllerTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:48:59.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WorkoutBLRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\BLTest\\WorkoutBLRepositoryTest.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\BLTest\\WorkoutBLRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\BLTest\\WorkoutBLRepositoryTest.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\BLTest\\WorkoutBLRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:31:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\UserRepositoryTests.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\DALRepositoryTests\\UserRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\UserRepositoryTests.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\DALRepositoryTests\\UserRepositoryTests.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAwwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:27:24.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\WorkoutRepository.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\DALRepository\\WorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\DALRepository\\WorkoutRepository.cs",
+              "RelativeToolTip": "FitnessTracker\\DALRepository\\WorkoutRepository.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwGoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:39:11.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MY-SQL-Queries.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MY-CAPSTONE-PROJECT\\Csv files and SQL Queries\\MY-SQL-Queries.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\MY-CAPSTONE-PROJECT\\Csv files and SQL Queries\\MY-SQL-Queries.sql",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MY-CAPSTONE-PROJECT\\Csv files and SQL Queries\\MY-SQL-Queries.sql",
+              "RelativeToolTip": "..\\..\\..\\MY-CAPSTONE-PROJECT\\Csv files and SQL Queries\\MY-SQL-Queries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-19T17:36:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.FitnessGoals.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FT_SYSTEMDB/True/SqlTable/dbo.FitnessGoals.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FT_SYSTEMDB/True/SqlTable/dbo.FitnessGoals.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-19T17:36:49.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WorkoutControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\ControllerTests\\WorkoutControllerTest.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\ControllerTests\\WorkoutControllerTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\ControllerTests\\WorkoutControllerTest.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\ControllerTests\\WorkoutControllerTest.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:51:21.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorkoutRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\WorkoutRepositoryTests.cs",
+              "RelativeDocumentMoniker": "FitnessTrackerTests\\DALRepositoryTests\\WorkoutRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTrackerTests\\DALRepositoryTests\\WorkoutRepositoryTests.cs",
+              "RelativeToolTip": "FitnessTrackerTests\\DALRepositoryTests\\WorkoutRepositoryTests.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAQwEMBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:15:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\Workout.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\Workout.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Full Stack Projects\\Fitness Tracking System\\Fitness-Tracter-Backend\\FitnessTracker\\Models\\Workout.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\Workout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:23:27.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T13:02:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.FitnessGoals.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.FitnessGoals.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.FitnessGoals.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T13:03:11.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.UserProfiles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.UserProfiles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.UserProfiles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T13:03:16.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Workouts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.Workouts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitnessTracking/True/SqlTable/dbo.Workouts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T13:03:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241113125844_initialMigration.cs",
+              "DocumentMoniker": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113125844_initialMigration.cs",
+              "ToolTip": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113125844_initialMigration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:58:44.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241113050240_initialMigration.cs",
+              "DocumentMoniker": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050240_initialMigration.cs",
+              "ToolTip": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050240_initialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:02:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241113050441_initialMigration.cs",
+              "DocumentMoniker": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050441_initialMigration.cs",
+              "ToolTip": "D:\\40044140_Sumanth\\Local Practice\\Project\\Capstone Project\\FitnessTracker\\Migrations\\20241113050441_initialMigration.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:04:41.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
